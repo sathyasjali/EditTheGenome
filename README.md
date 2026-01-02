@@ -26,15 +26,21 @@ Learn Python programming through real biological data analysis.
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Python 3.8+
-- Jupyter Notebook or VS Code with Python extension
-
-### Install## 🚀 Getting Started
-
 ### Option 1: Google Colab (Easiest - No Installation Required)
 
 **Best for beginners!** Run notebooks directly in your browser.
+
+**Method A: Direct Link (Recommended)**
+
+Each lesson notebook includes a **"Open in Colab"** button at the top. Simply:
+1. Browse the notebooks in the [`curriculum/student_materials`](curriculum/student_materials) folder
+2. Click on any notebook (e.g., `lesson01_intro_notebook.ipynb`)
+3. Click the blue **"Open in Colab"** badge at the top of the notebook
+4. Sign in with your Google account
+5. Click **Copy to Drive** to save your work
+6. Start coding!
+
+**Method B: Manual Navigation**
 
 1. Go to [Google Colab](https://colab.research.google.com/)
 2. Sign in with your Google account
