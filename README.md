@@ -1,6 +1,6 @@
-# EditTheGenome
+# EditTheGenome: Bioinformatics Basics
 
-A Python bioinformatics curriculum for high school students that teaches programming fundamentals through real biological data analysis.
+Learn Python programming through real biological data analysis.
 
 ## 🎯 What You'll Learn
 
