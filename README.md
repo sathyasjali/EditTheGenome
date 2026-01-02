@@ -30,7 +30,29 @@ A Python bioinformatics curriculum for high school students that teaches program
 - Python 3.8+
 - Jupyter Notebook or VS Code with Python extension
 
-### Installation
+### Install## 🚀 Getting Started
+
+### Option 1: Google Colab (Easiest - No Installation Required)
+
+**Best for beginners!** Run notebooks directly in your browser.
+
+1. Go to [Google Colab](https://colab.research.google.com/)
+2. Sign in with your Google account
+3. Click **File → Open notebook → GitHub**
+4. Enter the repository URL: `https://github.com/sathyasjali/EditTheGenome`
+5. Select the notebook you want (e.g., `lesson01_intro_notebook.ipynb`)
+6. Click **Copy to Drive** to save your work
+7. Start coding!
+
+**Note**: Any changes you make will be saved to your Google Drive, not the original repository.
+
+### Option 2: Local Installation
+
+**Prerequisites:**
+- Python 3.8+
+- Jupyter Notebook or VS Code with Python extension
+
+**Installation:**
 
 ```bash
 # Clone this repository
@@ -38,4 +60,7 @@ git clone https://github.com/sathyasjali/EditTheGenome.git
 cd EditTheGenome
 
 # Install dependencies
-pip install -r requirements.txt
+pip install jupyter pandas matplotlib biopython
+
+# Launch Jupyter Notebook
+jupyter notebook
