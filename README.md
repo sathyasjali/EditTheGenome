@@ -43,6 +43,7 @@ Learn Python programming through real biological data analysis.
 - 🧬 **BRCA1** - Breast cancer gene
 - 🧬 **TP53** - Tumor suppressor (cancer research)
 - 🧬 **CCR5** - HIV co-receptor (first human CRISPR trial)
+- 🌾 **PPO** (Polyphenol oxidase) - Non-browning crops (agriculture)
 
 ## 🚀 Getting Started
 
@@ -102,16 +103,13 @@ jupyter notebook
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🌟 Acknowledgments
 
 - Real gene sequences from [NCBI Gene Database](https://www.ncbi.nlm.nih.gov/gene)
 - CRISPR educational materials adapted from [Bio-Rad Laboratories](https://www.bio-rad.com/)
 - Inspired by real-world CRISPR clinical trials
-- Built for students passionate about genetic medicine
+- Encouraging the next generation of genetic researchers
 
 ---
 
