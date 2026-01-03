@@ -42,7 +42,11 @@ Learn Python programming through real biological data analysis.
 - 🧬 **BRCA1** - Breast cancer gene
 - 🧬 **TP53** - Tumor suppressor (cancer research)
 - 🧬 **CCR5** - HIV co-receptor (first human CRISPR trial)
-- 🌾 **PPO** (Polyphenol oxidase) - Non-browning crops (agriculture)
+
+**Agricultural Applications:**
+- 🌾 **rbcL** (RuBisCO) - Photosynthesis enzyme (most abundant protein on Earth!)
+- 🌾 **PSY1** (Phytoene synthase) - Golden Rice, Vitamin A enrichment
+- 🌾 **PPO** (Polyphenol oxidase) - Non-browning apples/potatoes
 
 ## 🚀 Getting Started
 
