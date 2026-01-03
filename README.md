@@ -5,11 +5,10 @@ Learn Python programming through real biological data analysis.
 ## 🎯 What You'll Learn
 
 - Python programming basics (strings, lists, loops, functions, file I/O)
-- DNA sequence analysis and manipulation
+- DNA sequence analysis and manipulation  
 - Real-world bioinformatics tools and concepts
-- Data visualization and pattern recognition in genomic data
-- CRISPR guide RNA design for gene therapy
-- Ethics in genetic research and bioinformatics careers
+- CRISPR guide RNA design for medical and agricultural applications
+- Working with real gene sequences from NCBI
 
 ## 📚 Curriculum Overview
 
