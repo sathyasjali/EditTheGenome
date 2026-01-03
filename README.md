@@ -39,7 +39,7 @@ Learn Python programming through real biological data analysis.
 | 15 | Complete Guide RNA Design Pipeline | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sathyasjali/EditTheGenome/blob/main/curriculum/student_materials/lesson15_complete_pipeline.ipynb) |
 
 **Real Genes Used:**
-- 🧬 **HBB** (Beta-globin) - Sickle cell disease
+- 🧬 **DMD** (Dystrophin) - Duchenne muscular dystrophy
 - 🧬 **BRCA1** - Breast cancer gene
 - 🧬 **TP53** - Tumor suppressor (cancer research)
 - 🧬 **CCR5** - HIV co-receptor (first human CRISPR trial)
@@ -107,7 +107,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 🌟 Acknowledgments
 
 - Real gene sequences from [NCBI Gene Database](https://www.ncbi.nlm.nih.gov/gene)
-- CRISPR educational materials adapted from [Bio-Rad Laboratories](https://www.bio-rad.com/)
+- Algorithms based on published CRISPR research (see lesson citations)
 - Inspired by real-world CRISPR clinical trials
 - Encouraging the next generation of genetic researchers
 
