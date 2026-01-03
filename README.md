@@ -38,7 +38,7 @@ Learn Python programming through real biological data analysis.
 | 14 | Off-Target Prediction & Specificity | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sathyasjali/EditTheGenome/blob/main/curriculum/student_materials/lesson14_off_target_prediction.ipynb) |
 | 15 | Complete Guide RNA Design Pipeline | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sathyasjali/EditTheGenome/blob/main/curriculum/student_materials/lesson15_complete_pipeline.ipynb) |
 
-**Real Disease Genes Used:**
+**Real Genes Used:**
 - 🧬 **HBB** (Beta-globin) - Sickle cell disease
 - 🧬 **BRCA1** - Breast cancer gene
 - 🧬 **TP53** - Tumor suppressor (cancer research)
