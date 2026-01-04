@@ -107,14 +107,9 @@ jupyter notebook
 
 ### Official Documentation
 - **[Python Documentation](https://docs.python.org/3/)** - Complete Python language reference
-- **[Python Tutorial](https://docs.python.org/3/tutorial/)** - Official beginner's guide
 - **[BioPython Documentation](https://biopython.org/)** - BioPython tutorial and API reference
-- **[BioPython Tutorial (PDF)](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)** - Comprehensive guide
 
-### Python Learning Resources
-- **[Real Python](https://realpython.com/)** - Tutorials and articles
-- **[Python for Biologists](https://pythonforbiologists.com/)** - Bioinformatics-focused tutorials
-- **[Rosalind](https://rosalind.info/)** - Bioinformatics programming challenges
+
 
 ### Bioinformatics Databases
 - **[NCBI Gene Database](https://www.ncbi.nlm.nih.gov/gene)** - Gene sequences and information
