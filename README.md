@@ -20,7 +20,7 @@ Learn Python programming through real biological data analysis.
 | 2 | Representing Biological Sequences as Data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sathyasjali/EditTheGenome/blob/main/curriculum/student_materials/lesson02_sequences_notebook.ipynb) |
 | 3 | Loops & GC Content Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sathyasjali/EditTheGenome/blob/main/curriculum/student_materials/lesson03_loops_notebook.ipynb) |
 | 4 | Functions & Reusable Bio Utilities | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sathyasjali/EditTheGenome/blob/main/curriculum/student_materials/lesson04_functions_notebook.ipynb) |
-| 5 | FASTA Files & File I/O | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sathyasjali/EditTheGenome/blob/main/curriculum/student_materials/lesson05_fasta_notebook.ipynb) |
+| 5 | FASTA Files, File I/O & BioPython Introduction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sathyasjali/EditTheGenome/blob/main/curriculum/student_materials/lesson05_fasta_notebook.ipynb) |
 | 6 | Codons & Translation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sathyasjali/EditTheGenome/blob/main/curriculum/student_materials/lesson06_translation_notebook.ipynb) |
 | 7 | Composition & Basic Probability | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sathyasjali/EditTheGenome/blob/main/curriculum/student_materials/lesson07_probability_notebook.ipynb) |
 | 8 | Mutation Simulation & Effects | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sathyasjali/EditTheGenome/blob/main/curriculum/student_materials/lesson08_mutations_notebook.ipynb) |
@@ -102,6 +102,30 @@ jupyter notebook
 3. **Complete challenge exercises** in each notebook
 4. **Experiment with different genes** to see how algorithms adapt
 
+
+## 📚 Additional Resources
+
+### Official Documentation
+- **[Python Documentation](https://docs.python.org/3/)** - Complete Python language reference
+- **[Python Tutorial](https://docs.python.org/3/tutorial/)** - Official beginner's guide
+- **[BioPython Documentation](https://biopython.org/)** - BioPython tutorial and API reference
+- **[BioPython Tutorial (PDF)](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)** - Comprehensive guide
+
+### Python Learning Resources
+- **[Real Python](https://realpython.com/)** - Tutorials and articles
+- **[Python for Biologists](https://pythonforbiologists.com/)** - Bioinformatics-focused tutorials
+- **[Rosalind](https://rosalind.info/)** - Bioinformatics programming challenges
+
+### Bioinformatics Databases
+- **[NCBI Gene Database](https://www.ncbi.nlm.nih.gov/gene)** - Gene sequences and information
+- **[UniProt](https://www.uniprot.org/)** - Protein sequence and functional information
+- **[Ensembl](https://www.ensembl.org/)** - Genome browser and annotation
+
+### CRISPR Resources
+- **[Benchling CRISPR Guide](https://www.benchling.com/crispr/)** - Industry-standard CRISPR design
+- **[CRISPResso2](https://crispresso.pinellolab.partners.org/)** - Analysis of CRISPR experiments
+- **[Addgene CRISPR Guide](https://www.addgene.org/crispr/guide/)** - Educational resource
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -111,7 +135,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Real gene sequences from [NCBI Gene Database](https://www.ncbi.nlm.nih.gov/gene)
 - Algorithms based on published CRISPR research (see lesson citations)
-- Inspired by real-world CRISPR clinical trials
+- Inspired by real-world CRISPR applications:
+  - Clinical trials for sickle cell disease, cancer immunotherapy, and inherited blindness
+  - Agricultural innovations: disease-resistant crops, improved yield, climate adaptation, and CRISPR-edited tomatoes, wheat, rice, and soybeans
 - Encouraging the next generation of genetic researchers
 
 ---
